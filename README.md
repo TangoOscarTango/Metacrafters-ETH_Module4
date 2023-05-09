@@ -14,7 +14,7 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 1.) Installing
 - Download or clone this repository from GitHub:
 
-git clone https://github.com/TangoOscarTango/MetacraftersModule4.git
+git clone [https://github.com/TangoOscarTango/MetacraftersModule4.git](https://github.com/TangoOscarTango/Metacrafters-ETH_Module4.git)
 
 - Install the required dependencies:
 
