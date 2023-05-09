@@ -9,7 +9,7 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 
 
 
-**GETTING STARTED**
+*GETTING STARTED*
 
 1.) ~Installing~
 - Download or clone this repository from GitHub:
@@ -32,7 +32,7 @@ or
 
 
 
-**HELP**
+*HELP*
 
 - If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
@@ -42,11 +42,11 @@ or
 
 
 
-**AUTHOR**
+*AUTHOR*
 TangoOscarTango
 @Brunkle72
 
 
 
-**LICENSE**
+*LICENSE*
 This project is licensed under the MIT License - see the LICENSE.md file for details.
