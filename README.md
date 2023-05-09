@@ -43,7 +43,7 @@ npx hardhat run --network rinkeby scripts/deploy.js
 
 **HELP**
 
-- If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
+If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
 truffle help
 
