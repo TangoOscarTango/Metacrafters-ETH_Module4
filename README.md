@@ -13,21 +13,29 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 
 1.) Installing
 - Download or clone this repository from GitHub:
+
 git clone https://github.com/TangoOscarTango/MetacraftersModule4.git
 
 - Install the required dependencies:
+
 npm install
 
 
 2.) Executing program
    A.) Compile the smart contract using Truffle or Hardhat:
+
 truffle compile
+
 or
+
 npx hardhat compile
 
    B.) Deploy the smart contract to a local or public testnet:
+   
 truffle migrate --network development
+
 or
+
 npx hardhat run --network rinkeby scripts/deploy.js
 
 
@@ -37,6 +45,7 @@ npx hardhat run --network rinkeby scripts/deploy.js
 - If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
 truffle help
+
 or
 
 npx hardhat help
