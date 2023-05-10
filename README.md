@@ -1,7 +1,7 @@
-# Foxy Peso Token
+# Foxy Peso Token Contract
 A simple, customizable ERC20-like token on the Ethereum blockchain.
 
-Description
+## Description
 The Foxy Peso Token (FP) is an Ethereum-based digital currency created using the Solidity language. 
 The purpose of this project is to demonstrate the implementation of a basic, customizable token 
 with core functionalities such as minting, burning, and transferring tokens. Additionally, it 
