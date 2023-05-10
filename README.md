@@ -28,7 +28,7 @@ npm install
 
 ### 2.) Executing the program
 
-   A.) To run this program, start by compiling the smart contract using Truffle or Hardhat:
+   #### A.) To run this program, start by compiling the smart contract using Truffle or Hardhat:
 
 ```javascript
 //Truffle
@@ -44,7 +44,7 @@ npx hardhat compile
 
 
 
-   B.) Deploy the smart contract to a local or public testnet:
+   #### B.) Deploy the smart contract to a local or public testnet:
    
 ```javascript
 //Truffle
@@ -58,6 +58,7 @@ or
 npx hardhat run --network rinkeby scripts/deploy.js
 ```
 
+#### Once you have deployed the contract, you can interact with it by calling the Mint or Burn functions.
 
 
 ## Help
