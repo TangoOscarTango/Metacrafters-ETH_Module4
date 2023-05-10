@@ -58,7 +58,7 @@ or
 npx hardhat run --network rinkeby scripts/deploy.js
 ```
 
-#### Once you have deployed the contract, you can interact with it by calling the Mint or Burn functions.
+#### Once you have deployed the contract, you can interact with it by calling the Mint or Burn functions with the desired address and value of tokens you want to create or destroy.
 
 
 ## Help
