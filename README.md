@@ -81,8 +81,9 @@ npx hardhat help
 
 ## Author
 
-TangoOscarTango
-@Brunkle72
+Github: [TangoOscarTango]([url](https://github.com/TangoOscarTango/)
+
+Twitter: [@Brunkle72]([url](https://twitter.com/Brunkle72))
 
 
 
