@@ -13,13 +13,13 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 ## Getting Started
 
 ### 1.) Installing
-Download or clone this repository from GitHub:
+A.) Download or clone this repository from GitHub:
 
 ```javascript
 git clone [https://github.com/TangoOscarTango/MetacraftersModule4.git](https://github.com/TangoOscarTango/Metacrafters-ETH_Module4.git)
 ```
 
-#### Install the required dependencies:
+#### B.) Install the required dependencies:
 
 ```javascript
 npm install
