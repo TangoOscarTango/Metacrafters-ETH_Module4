@@ -26,11 +26,12 @@ npm install
 ```
 
 
-### 2.) Executing program
+### 2.) Executing the program
 
-   A.) Compile the smart contract using Truffle or Hardhat:
+   A.) To run this program, start by compiling the smart contract using Truffle or Hardhat:
 
 ```javascript
+//#Truffle
 truffle compile
 ```
 
