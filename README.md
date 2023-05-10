@@ -15,12 +15,14 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 - Download or clone this repository from GitHub:
 
 ```javascript
-git clone [https://github.com/TangoOscarTango/MetacraftersModule4.git](https://github.com/TangoOscarTango/Metacrafters-ETH_Module4.git)```
+git clone [https://github.com/TangoOscarTango/MetacraftersModule4.git](https://github.com/TangoOscarTango/Metacrafters-ETH_Module4.git)
+```
 
 #### Install the required dependencies:
 
 ```javascript
-npm install```
+npm install
+```
 
 
 ### 2.) Executing program
@@ -28,22 +30,26 @@ npm install```
    A.) Compile the smart contract using Truffle or Hardhat:
 
 ```javascript
-truffle compile```
+truffle compile
+```
 
 or
 
 ```javascript
-npx hardhat compile```
+npx hardhat compile
+```
 
    B.) Deploy the smart contract to a local or public testnet:
    
 ```javascript
-truffle migrate --network development```
+truffle migrate --network development
+```
 
 or
 
 ```javascript
-npx hardhat run --network rinkeby scripts/deploy.js```
+npx hardhat run --network rinkeby scripts/deploy.js
+```
 
 
 
@@ -52,12 +58,14 @@ npx hardhat run --network rinkeby scripts/deploy.js```
 If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
 ```javascript
-truffle help```
+truffle help
+```
 
 or
 
 ```javascript
-npx hardhat help```
+npx hardhat help
+```
 
 
 
