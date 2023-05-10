@@ -9,7 +9,7 @@ includes access control and a pause/unpause mechanism for enhanced security and 
 
 
 
-## GETTING STARTED
+## Getting Started
 
 ### 1.) Installing
 - Download or clone this repository from GitHub:
@@ -39,6 +39,8 @@ or
 npx hardhat compile
 ```
 
+
+
    B.) Deploy the smart contract to a local or public testnet:
    
 ```javascript
@@ -53,7 +55,7 @@ npx hardhat run --network rinkeby scripts/deploy.js
 
 
 
-## HELP
+## Help
 
 If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
@@ -69,13 +71,13 @@ npx hardhat help
 
 
 
-## AUTHOR
+## Author
 
 TangoOscarTango
 @Brunkle72
 
 
 
-## LICENSE
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
