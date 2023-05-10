@@ -31,13 +31,14 @@ npm install
    A.) To run this program, start by compiling the smart contract using Truffle or Hardhat:
 
 ```javascript
-//#Truffle
+//Truffle
 truffle compile
 ```
 
 or
 
 ```javascript
+//Hardhat
 npx hardhat compile
 ```
 
@@ -46,12 +47,14 @@ npx hardhat compile
    B.) Deploy the smart contract to a local or public testnet:
    
 ```javascript
+//Truffle
 truffle migrate --network development
 ```
 
 or
 
 ```javascript
+//Hardhat
 npx hardhat run --network rinkeby scripts/deploy.js
 ```
 
@@ -62,12 +65,14 @@ npx hardhat run --network rinkeby scripts/deploy.js
 If you encounter any issues or require assistance, please refer to the Solidity documentation or Ethereum Stack Exchange for guidance.
 
 ```javascript
+//Truffle
 truffle help
 ```
 
 or
 
 ```javascript
+//Hardhat
 npx hardhat help
 ```
 
